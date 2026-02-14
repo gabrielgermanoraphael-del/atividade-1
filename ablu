@@ -1,0 +1,6 @@
+a = "augusto"
+while True:
+    if a == "augusto":
+        print(a)
+    else:
+        break
